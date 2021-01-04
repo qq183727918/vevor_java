@@ -1,6 +1,6 @@
-package httpclient;
+package study;
 
-public class TestArray {
+public class TestArrays {
     public static void main(String[] args) {
         // 数组大小
         int size = 10;

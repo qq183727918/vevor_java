@@ -1,4 +1,4 @@
-package httpclient;
+package study;
 
 public class Test {
     static boolean bool;

@@ -1,4 +1,4 @@
-package httpclient;
+package study;
 
 public class HelloWorld {
     public static void main(String[] args) {

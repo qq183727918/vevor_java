@@ -1,4 +1,4 @@
-package httpclient;
+package study;
 
 public class Employee{
     String name;
